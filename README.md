@@ -2,6 +2,11 @@
 
 This repository serves as my personal learning space for exploring and implementing gRPC (Google Remote Procedure Call) in Java. I'm following a structured course, and this repo will contain code examples, exercises, and projects as I progress through the material.
 
+## Course Source
+
+I am using the following course to learn gRPC implementation in Java:
+[gRPC Java Masterclass](https://www.oreilly.com/videos/grpc-java-master/9781838558048/)
+
 ## Course Outline & Progress
 
 Below is an overview of the topics covered in the course and my current progress. Each chapter's folder will contain the relevant code and notes.
@@ -29,7 +34,7 @@ Below is an overview of the topics covered in the course and my current progress
 
 * **Java:** The primary programming language.
 * **gRPC:** For building high-performance, distributed applications.
-* **Gradle:** (Likely) for build automation and dependency management.
+* **Maven/Gradle:** (Likely) for build automation and dependency management.
 * **MongoDB:** (For Chapter 9) A NoSQL database.
 
 ## How to Run the Code
